@@ -134,13 +134,13 @@ header .banner {
     background-size: cover;
 }
 #work-3 {
-    background: url("3.PNG") no-repeat 100%;
+    background: url("3.png") no-repeat 100%;
     background-size: cover;
 }
-#work-4 {
+/* #work-4 {
     background: url("https://i1378.photobucket.com/albums/ah89/andreykokhanevich/portfolio%20page/wikisearch_zps7uvspjn1.jpg") no-repeat 100%;
     background-size: cover;
-}
+} */
 #work-5 {
     background: url("https://i1378.photobucket.com/albums/ah89/andreykokhanevich/portfolio%20page/quote_zpsk9hgyziu.jpg") no-repeat 100%;
     background-size: cover;
